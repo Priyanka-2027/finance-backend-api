@@ -36,6 +36,17 @@ A comprehensive backend system for managing financial records with role-based ac
 - Proper HTTP status codes
 - Protection against invalid operations
 
+
+### OUTPUT SCREENSHOTS
+<img width="903" height="312" alt="image" src="https://github.com/user-attachments/assets/082e6995-bd3a-419a-8fa2-17640f27e685" />
+<img width="903" height="315" alt="image" src="https://github.com/user-attachments/assets/1223d157-bd82-4c7b-b354-63873999b244" />
+<img width="903" height="304" alt="image" src="https://github.com/user-attachments/assets/a342cc10-c16a-4c92-8629-8fafad2bc81b" />
+<img width="903" height="274" alt="image" src="https://github.com/user-attachments/assets/ce6825f6-a40b-4bc7-9074-e9c2522cf77c" />
+<img width="903" height="512" alt="image" src="https://github.com/user-attachments/assets/476025a5-28ac-4074-bc26-faac65a003e5" />
+<img width="452" height="263" alt="image" src="https://github.com/user-attachments/assets/31d50c29-c2f7-4e74-b951-093a8322c32a" />
+<img width="903" height="497" alt="image" src="https://github.com/user-attachments/assets/8548cbbf-30e5-4ab8-8c29-56cf8b9553cf" />
+<img width="903" height="252" alt="image" src="https://github.com/user-attachments/assets/259837c3-adcf-4b97-8145-0d3283a3240d" />
+
 ## Project Structure
 
 ```
@@ -713,6 +724,14 @@ For issues or questions about this assignment:
 4. Ensure MongoDB connection and data persistence
 
 ---
+
+
+
+
+
+
+
+
 
 ## License
 
