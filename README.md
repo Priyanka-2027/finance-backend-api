@@ -42,8 +42,8 @@ A comprehensive backend system for managing financial records with role-based ac
 <img width="903" height="315" alt="image" src="https://github.com/user-attachments/assets/1223d157-bd82-4c7b-b354-63873999b244" />
 <img width="903" height="304" alt="image" src="https://github.com/user-attachments/assets/a342cc10-c16a-4c92-8629-8fafad2bc81b" />
 <img width="903" height="274" alt="image" src="https://github.com/user-attachments/assets/ce6825f6-a40b-4bc7-9074-e9c2522cf77c" />
-<img width="903" height="512" alt="image" src="https://github.com/user-attachments/assets/476025a5-28ac-4074-bc26-faac65a003e5" />
-<img width="452" height="263" alt="image" src="https://github.com/user-attachments/assets/31d50c29-c2f7-4e74-b951-093a8322c32a" />
+<img width="1310" height="525" alt="image" src="https://github.com/user-attachments/assets/5ec2b9cb-9dbd-4bb6-8f23-fec606fa600c" />
+<img width="1163" height="575" alt="image" src="https://github.com/user-attachments/assets/69a0240f-435d-4c69-9888-8bc515577ffc" />
 <img width="903" height="497" alt="image" src="https://github.com/user-attachments/assets/8548cbbf-30e5-4ab8-8c29-56cf8b9553cf" />
 <img width="903" height="252" alt="image" src="https://github.com/user-attachments/assets/259837c3-adcf-4b97-8145-0d3283a3240d" />
 
